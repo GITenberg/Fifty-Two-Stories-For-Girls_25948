@@ -1,0 +1,50 @@
+_repo: Fifty-Two-Stories-For-Girls_25948
+_version: 0.1.0
+alternative_title: 52 Stories For Girls
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Miles, Alfred H. (Alfred Henry)
+    aliases:
+    - Miles, A. H. (Alfred Henry)
+    - Miles, Alfred Henry
+    birthdate: 1848
+    deathdate: 1929
+    gutenberg_agent_id: '7333'
+    url: http://www.gutenberg.org/2009/agents/7333
+description: ''
+gutenberg_issued: '2008-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25948'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- !lcsh 'Girls -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+tableOfContents: Gloria Dene's schoolfellows, by Ryeman -- My year at school, by Watson
+  -- The silver star, by Holderness -- Uncle Tone, by Godkin -- A night on the road,
+  by  Watson -- The missing letter, by Chappell -- "The colonel", by Dicken -- Nettie,
+  by Sayers -- The magic cabinet, by Hooper -- Only Tim, by Doudney -- Smith's sister,
+  by Overton -- The colonel's boy, by Hervey -- 'Twixt life and death, by Joughin
+  -- Rose's birthday present, by Delbrassine -- Dolly Hardcastle's rosebuds, by Pearce
+  -- A tale of Simla, by Bourchier -- The Trevern treasure, by Hardy -- A memorable
+  day, by Doudney -- Dora, by Miles -- Little peace, by Ryeman -- The story of Wassili
+  and Daria, by Guillemard -- Marjorie May, by Everett-Green -- Fourth cousins, by
+  Stables -- The pedlar's pack, by Jackson -- The unbidden guest, by Forester -- The
+  wreck of the May Queen, by Jackson -- Adrift on the Pacific, by Jackson -- A strange
+  visitor, by Heighington -- The third person singular, by Hardy -- "How Jack minded
+  the baby", by Pinho -- My grandmother's adventure, by Miles -- A terrible Christmas
+  Eve, by Jackson -- A night of horror, by Miles -- Aunt Grieves' silver, by Jackson
+  -- Billjim, by Le Sotgille -- The legends of Langaffer, by Caumont -- How Cicely
+  danced before the king, by Archer -- A mother of Queens From "Old Romance" -- The
+  story of Grizel Cochrand -- A wife's stratagem, by Hardy -- The king's tragedy,
+  by Miles -- The stranger, by Bell -- Love will find a way, by Nithsdale.
+title: Fifty-Two Stories For Girls
+url: http://www.gutenberg.org/ebooks/25948
